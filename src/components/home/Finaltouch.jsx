@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Lock } from "lucide-react";
-import collection1 from "../../assets/collection.jpg";
+import collection1 from "../../assets/Collection.jpg";
 import uzma5 from "../../assets/uzma5.jpg";
 import uzma7 from "../../assets/uzma7.jpg";
 
