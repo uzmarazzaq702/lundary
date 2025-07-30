@@ -22,7 +22,7 @@ import dress from "../../../assets/dress.jpg";
 import dresslong from "../../../assets/dressLong.jpg";
 import uzma7 from "../../../assets/uzma7.jpg";
 import suite from "../../../assets/suite.jpg";
-import Overcoat from "../../../assets/Overcoat.jpg";
+import Overcoat from "../../../assets/overcoat.jpg";
 import dishdasha from "../../../assets/dishdasha.webp";
 import blouse from "../../../assets/blouse.jpg";
 import bathrob from "../../../assets/bathrob.jpg";
