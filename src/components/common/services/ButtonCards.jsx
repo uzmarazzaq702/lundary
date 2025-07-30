@@ -19,7 +19,7 @@ import abaya1 from "../../../assets/abaya1.jpg";
 import hijab from "../../../assets/hijab.png";
 import gents from "../../../assets/gents.jpg";
 import dress from "../../../assets/dress.jpg";
-import dresslong from "../../../assets/dresslong.jpg";
+import dresslong from "../../../assets/dressLong.jpg";
 import uzma7 from "../../../assets/uzma7.jpg";
 import suite from "../../../assets/suite.jpg";
 import Overcoat from "../../../assets/Overcoat.jpg";
