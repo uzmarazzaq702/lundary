@@ -4,7 +4,7 @@ import "flickity/css/flickity.css";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import eco1 from "../../../assets/eco1.jpg";
 import uzma2 from "../../../assets/uzma2.jpg";
-import collection from "../../../assets/collection.jpg";
+import collection from "../../../assets/Collection.jpg";
 
 const images = [eco1, uzma2, collection];
 
