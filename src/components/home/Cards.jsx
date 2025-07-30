@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import uzma2 from "../../assets/uzma2.jpg";
-import collection from "../../assets/collection.jpg";
-import collection1 from "../../assets/collection1.jpg";
+import collection from "../../assets/Collection.jpg";
+import collection1 from "../../assets/Collection1.jpg";
 import { ArrowRight } from "lucide-react";
 import AOS from "aos";
 import "aos/dist/aos.css";
