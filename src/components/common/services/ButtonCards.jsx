@@ -5,7 +5,7 @@ import dryCleaning from "../../../assets/dryCleaning.jpg";
 import executivePressing from "../../../assets/exectivePressing.jpg";
 import care from "../../../assets/care.jpg";
 import resturation from "../../../assets/resturation.jpg";
-import collection1 from "../../../assets/collection1.jpg";
+import collection1 from "../../../assets/Collection1.jpg";
 import fragrance from "../../../assets/fragrance.jpg";
 import child from "../../../assets/child.jpg";
 import bisht from "../../../assets/bisht.jpg";
